@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">CP2</string>
+    <string-array name="list_jurusan">
+        <item>Administrasi Perkantoran</item>
+        <item>Akomodasi perhotelan</item>
+        <item>Akuntansi</item>
+        <item>Akuntansi dan Keuangan Lembaga</item>
+        <item>Analisi Kesehatan</item>
+        <item>Animasi</item>
+        <item>Bisnis Daring dan Pemasaran</item>
+        <item>Broadcasting</item>
+        <item>Desain Grafis</item>
+        <item>Desain Interior dan Landscapping</item>
+        <item>Desain Komunikasi Visual</item>
+        <item>Desain Pemodelan Dan Informasi Bangunan</item>
+        <item>Desain Web</item>
+        <item>Farmasi</item>
+        <item>Fotografi</item>
+        <item>Jasa Butik</item>
+        <item>Keperawatan</item>
+        <item>Kimia Industri</item>
+        <item>Konstruksi Gedung, Sanitiasi Dan Perawatan</item>
+        <item>Kria Kayu</item>
+        <item>Kria Kulit</item>
+        <item>Multimedia</item>
+        <item>Neutika Kapal Niaga</item>
+        <item>Otomatisasi dan Tata Kelola Perkantoran</item>
+        <item>Pemasaran</item>
+        <item>Pengawasan Mutu Pangan</item>
+        <item>Perawat Kesehatan</item>
+        <item>Perbankan</item>
+        <item>Perdagangan</item>
+        <item>Rekayasa Perangkat Lunak / Software Programming</item>
+        <item>Sistem Informatika, Jaringan Dan Aplikasi</item>
+        <item>Tata Boga Restoran</item>
+        <item>Tata Boga</item>
+        <item>Tata Busana</item>
+        <item>Tata Kecantikan Kulit</item>
+        <item>Tata Kecantikan Rambut</item>
+        <item>Tata Laksana Kapal Niaga</item>
+        <item>Teknik Audio Video / Elektronika</item>
+        <item>Teknik Dan Bisnis Sepeda Motor</item>
+        <item>Teknik Dan Manajemen Perawatan Otomotif</item>
+        <item>Teknik Elektronika Daya Dan Komunikasi</item>
+        <item>Teknik Elektronika Industri</item>
+        <item>Teknik Fabrikasi Logam Dan Manufakturing</item>
+        <item>Teknik Gambar Bangunan dan Konstruksi Batu Beton</item>
+        <item>Teknik Gambar Bangunan</item>
+        <item>Teknik Instalasi Pemesinan Kapal</item>
+        <item>Teknik Instalasi Tenaga Listrik</item>
+        <item>Teknik Kendaraan Ringan Otomotif</item>
+        <item>Teknik Komputer dan Jaringan</item>
+        <item>Teknik Konstruksi Batu Beton</item>
+        <item>Teknik Konstruksi dan Properti</item>
+        <item>Teknik Konstruksi Kapal Baja</item>
+        <item>Teknik Mesin Kapal Niaga</item>
+        <item>Teknik Otomasi Industri</item>
+        <item>Teknik Otomotif</item>
+        <item>Teknik Pemesinan</item>
+        <item>Teknik Pendingin dan Tata Udara</item>
+        <item>Teknik Pengelasan</item>
+        <item>Teknik Produksi dan Penyiaran Radio dan Pertelevisian</item>
+        <item>Teknik Sepeda Motor</item>
+        <item>Teknik Tenaga Listrik</item>
+        <item>Teknika Kapal Niaga</item>
+        <item>Usaha Jasa Pariwisata</item>
+        <item>Videografi</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
